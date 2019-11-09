@@ -1,1 +1,3 @@
 test data for myproject
+#/usr/bin/python
+print "test data"
